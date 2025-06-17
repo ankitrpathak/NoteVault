@@ -1,4 +1,6 @@
-# Notes App - Svelte + TypeScript + TailwindCSS
+# [NoteVault](https://noteevault.netlify.app/)
+
+## Notes App - Svelte + TypeScript + TailwindCSS
 
 A modern, responsive notes application built with Svelte, TypeScript, and TailwindCSS featuring full CRUD operations, real-time search, pagination, and beautiful UI with dark/light mode support.
 
@@ -159,7 +161,3 @@ npm run preview
 - **Styling**: TailwindCSS with custom components
 - **Icons**: Heroicons (SVG)
 - **Fonts**: Inter (Google Fonts)
-
----
-
-**Contact**: engineering@inlabels.in
